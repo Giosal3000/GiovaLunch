@@ -1,0 +1,21 @@
+#menu {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.producto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+}
+
+#carrito{
+    border: 1px solid rgb(175, 175, 175);
+    margin: 20px 0px 20px 0px;
+}
+
+#formulario-cliente{
+    border: 1px solid rgb(175, 175, 175);
+    margin: 20px 0px 20px 0px;
+}
